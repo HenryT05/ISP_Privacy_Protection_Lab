@@ -1,7 +1,7 @@
 # ISP Privacy Protection Lab
 
 ## Objective
-The Objective of this project is to demonstrate how to protect network traffic from an Internet Service Provider (ISP). This is valuable because an ISP is able to collect data on a person. meaning they can use this data and sell to corporations that create targeted profiles for advertising and tracking purposes. I believe that each person has a right to privacy and that their data should be protected. This lab provides learning and understanding of network privacy, encryption protocols, and defensive strategies.
+The Objective of this project is to demonstrate how to protect network traffic from an Internet Service Provider (ISP). This is valuable because an ISP is able to collect data on a person. meaning they can use this data and sell to corporations that create targeted profiles for advertising and tracking purposes. I believe that each person has a right to privacy and that their data should be protected. This lab provides the learning and understanding of network privacy, encryption protocols, and defensive strategies.
 
 ### Skills Learned
 - Understanding of VPN technology and the differences between centralized vs. decentralized VPN architectures
